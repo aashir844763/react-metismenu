@@ -1,6 +1,6 @@
 /**
  * src/components/Container.jsx
- * Author: H.Alper Tuna <halpertuna@gmail.com>
+ 
  * Date: 16.09.2016
  */
 
